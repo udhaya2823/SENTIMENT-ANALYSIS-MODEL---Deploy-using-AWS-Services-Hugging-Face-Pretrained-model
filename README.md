@@ -1,0 +1,2 @@
+# SENTIMENT-ANALYSIS-MODEL---Deploy-using-AWS-Services-Hugging-Face-Pretrained-model
+🚀This project delivers a scalable and secure web application, powered by AWS services and accessible via Streamlit or Gradio. 🧠The model analyzes tweets to classify sentiments as Positive, Negative, or Neutral, based on entity-level context. Key steps include fine-tuning or leveraging pre-trained models, storing them in S3, and deploying via EC2.
