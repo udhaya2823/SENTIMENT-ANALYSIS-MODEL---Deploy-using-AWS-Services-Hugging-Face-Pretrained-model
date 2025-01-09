@@ -1,4 +1,4 @@
-# Sentiment Analysis Model Deployment using AWS and Streamlit/Gradio
+# 🚀Sentiment Analysis Model Deployment using AWS and Streamlit/Gradio
 
 ## Table of Contents
 - [Introduction](#introduction)
